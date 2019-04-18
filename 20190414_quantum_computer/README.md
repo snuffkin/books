@@ -11,6 +11,9 @@
 電子版は次のサイトで購入できます。  
 [snuffkin's shop(https://snuffkin.booth.pm/)](https://snuffkin.booth.pm/)
 
+## 正誤表
+[errata.md](errata.md)
+
 ## ソースコード
 [ソースコード(Notebook形式)](notebooks)
 
