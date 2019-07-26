@@ -16,11 +16,12 @@
 ## 著者紹介
 束野 仁政(つかの さとゆき)[@snuffkin](https://twitter.com/snuffkin)
 
-- CQ出版社Interface誌にて、量子コンピュータの入門記事「動かしながら始める量子コンピュータ」を連載中。
+- CQ出版社Interface誌にて、量子コンピュータの入門記事「動かしながら始める量子コンピュータ」を連載。
 - インプレスR&D社から、検索・分析ミドルウェアElasticsearchに関する書籍「Elasticsearch NEXT STEP」を出版(共著)。
 
 ## 電子版
-7月末頃から電子版を販売予定です。  
+電子版は次のサイトでご購入頂けます。  
+[snuffkin's shop(https://snuffkin.booth.pm/)](https://snuffkin.booth.pm/)
 
 ## 正誤表
 [errata.md](errata.md)
