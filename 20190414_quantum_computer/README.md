@@ -9,7 +9,7 @@
 
 ## 電子版
 第2版の頒布を開始したため、この版の頒布を停止しました。
-電子版は次のサイトで購入していました。  
+電子版は次のサイトで販売していました。  
 [snuffkin's shop(https://snuffkin.booth.pm/)](https://snuffkin.booth.pm/)
 
 ## 正誤表
