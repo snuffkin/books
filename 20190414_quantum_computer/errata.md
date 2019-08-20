@@ -2,6 +2,7 @@
 
 |頁|誤|正|
 |:--|:--|:--|
+|p.17 1行目と2行目|![誤](images/errata_p17_before.png)|![正](images/errata_p17_after.png)|
 |p.35 下から7行目(3行並んだ数式の2行目)|![誤](images/errata_p35_before.png)|![正](images/errata_p35_after.png)|
 |p.55 6行目(リスト6.3の直後)|リスト6.2は、|リスト6.3は、|
 |p.75 6行目|n正方行列Aに対し、|n次正方行列Aに対し、|
