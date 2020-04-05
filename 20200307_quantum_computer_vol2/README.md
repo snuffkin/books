@@ -21,6 +21,7 @@
 [snuffkin's shop(https://snuffkin.booth.pm/)](https://snuffkin.booth.pm/)
 
 ## 正誤表
+[errata.md](errata.md)
 
 ## ソースコード
 
