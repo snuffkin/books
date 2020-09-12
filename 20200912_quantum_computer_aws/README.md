@@ -19,9 +19,12 @@
 - CQ出版社Interface誌にて、量子コンピュータの入門記事「動かしながら始める量子コンピュータ」を連載。
 - 量子コンピュータの面白さを多くの人に広めたいと考え、雑誌記事や同人誌の執筆、勉強会での発表等を行っている。
 
+## 物理本
+物理本の作成予定はありません。電子版のみの頒布となります。
+
 ## 電子版
 電子版は次のサイトでご購入頂けます。  
-[snuffkin's shop(https://snuffkin.booth.pm/)](https://snuffkin.booth.pm/)
+[技術書典オンラインマーケット(https://techbookfest.org/organization/69160003)](https://techbookfest.org/organization/69160003)
 
 ## 正誤表
 [errata.md](errata.md)
